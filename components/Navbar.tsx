@@ -12,7 +12,7 @@ const Navbar = () => {
             <UserButton showName></UserButton>
           </SignedIn>
           <SignedOut>
-            <SignInButton mode="modal">Login</SignInButton>
+            <SignInButton>Login</SignInButton>
           </SignedOut>
         </div>
       </div>
